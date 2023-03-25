@@ -1,2 +1,2 @@
 # Consumer_disputed
-calculates Consumer_disputed
+calculated Consumer_disputed
